@@ -1,0 +1,12 @@
+# 6) Crear un programa que pida al usuario un número e imprima por pantalla la tabla de multiplicar de dicho número.
+numero = int(input("Ingrese un número entero y le mostraremos la tabla de multiplicar hasta 10"))
+print(f"{numero} multiplicado por 1 es: {numero*1}")
+print(f"{numero} multiplicado por 2 es: {numero*2}")
+print(f"{numero} multiplicado por 3 es: {numero*3}")
+print(f"{numero} multiplicado por 4 es: {numero*4}")
+print(f"{numero} multiplicado por 5 es: {numero*5}")
+print(f"{numero} multiplicado por 6 es: {numero*6}")
+print(f"{numero} multiplicado por 7 es: {numero*7}")
+print(f"{numero} multiplicado por 8 es: {numero*8}")
+print(f"{numero} multiplicado por 9 es: {numero*9}")
+print(f"{numero} multiplicado por 10 es: {numero*10}")
