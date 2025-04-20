@@ -15,14 +15,18 @@
 #   numeros_aleatorios = [random.randint(1, 100) for i in range(50)]
 # Nota: el bloque de código anterior crea una lista con 50 números entre 1 y 100 elegidos de forma aleatoria.
 
+# Se importan las librerías mencionadas
 import random
 from statistics import mode, median, mean
+# Se ejecutan números aleatorios
 numeros_aleatorios = [random.randint(1, 100) for i in range(50)]
 
+# Se utilizan los métodos de la librería statistics
 valorModa = mode(numeros_aleatorios)
 valorMedia = mean(numeros_aleatorios)
 valorMediana = median(numeros_aleatorios)
 
+# Se hacen las respectivas comparaciones
 if valorMedia > valorMediana > valorModa:
     print("Hay seso positivo")
 elif valorMedia < valorMediana < valorModa:

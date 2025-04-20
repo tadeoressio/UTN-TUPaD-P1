@@ -3,8 +3,10 @@
 # en caso contrario, imprimir por pantalla "Por favor, ingrese una contraseña de entre 8 y 14 caracteres". 
 # Nota: investigue el uso de la función len() en Python para evaluar la cantidad de elementos que tiene un iterable tal como una lista o un string.
 
+# Se pide contraseña al usuario
 contrasenaUsuario = input("Ingrese su contraseña: ")
 
+# len indica el largo de la cadena
 if 8 <= len(contrasenaUsuario) <= 14:
     print("Ha ingresado una contraseña correcta")
 else: 

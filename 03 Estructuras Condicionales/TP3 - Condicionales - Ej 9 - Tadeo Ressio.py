@@ -7,8 +7,10 @@
 #   ● Mayor o igual que 6 y menor que 7: "Muy Fuerte" (puede causar daños significativos).
 #   ● Mayor o igual que 7: "Extremo" (puede causar graves daños a gran escala).
 
+# Se pide magnitud de terremoto con decimales ya que normalmente se utilizan para esto
 magnitudTerremoto = float(input("Ingrese la magnitud del terremoto: "))
 
+# Se compara la magnitud con las categorías prestablecidas
 if magnitudTerremoto < 3:
     print("Muy leve (imperceptible)")
 elif 3 <= magnitudTerremoto < 4:
