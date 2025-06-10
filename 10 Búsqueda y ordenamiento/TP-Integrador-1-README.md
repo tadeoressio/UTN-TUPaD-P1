@@ -4,7 +4,7 @@ Este proyecto es una simulación de gestión de estudiantes que permite generar 
 
 ## Funcionalidades
 
-Enlace al video: https://drive.google.com/file/d/14Oco2fUE_raybwTdMGOl1KvHv7upYJvH/view?usp=sharing
+Enlace al video: https://www.youtube.com/watch?v=hyO6WD7E_ps
 
 ## Funcionalidades
 
