@@ -4,6 +4,10 @@ Este proyecto es una simulación de gestión de estudiantes que permite generar 
 
 ## Funcionalidades
 
+Enlace al video: https://drive.google.com/file/d/14Oco2fUE_raybwTdMGOl1KvHv7upYJvH/view?usp=sharing
+
+## Funcionalidades
+
 - **Generación de estudiantes:** Crea una lista de estudiantes con nombre, apellido, DNI y calificación aleatorios usando la librería Faker.
 - **Ordenamiento:** Implementa los algoritmos de ordenamiento Burbuja (Bubble Sort) y Selección (Selection Sort) para organizar los estudiantes según su calificación.
 - **Búsquedas:** Permite buscar estudiantes por DNI (búsqueda lineal) o por calificación (búsqueda binaria).
@@ -19,7 +23,7 @@ Este proyecto es una simulación de gestión de estudiantes que permite generar 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/thomas602/UTN-TUPaD-P1.git
+   git clone https://github.com/tadeoressio/UTN-TUPaD-P1
    cd UTN-TUPaD-P1
    ```
 
@@ -46,8 +50,5 @@ Este proyecto es una simulación de gestión de estudiantes que permite generar 
 - **lineal_search_by_dni y binary_search_by_grade:** Algoritmos de búsqueda.
 - **timeit:** Mide el tiempo de ejecución de los algoritmos de ordenamiento.
 
-## Autor
-
-- [thomas602](https://github.com/thomas602)
 
 ---
